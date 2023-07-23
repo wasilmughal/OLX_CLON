@@ -1,0 +1,68 @@
+.selectbox{
+    
+    width: 90%;
+    height: 50px;
+    margin-left: 40px;
+
+}
+.b{
+    position: absolute;
+   margin-top: 20px;
+   margin-left: 40px;
+    
+}
+.mdiv{
+    border: 1px solid black;
+    width: 95%;
+    margin-left: 2.5%;
+    border-radius: 4px 4px;
+    position: relative;
+}
+.b2{
+   margin-left: 40px;
+}
+.b3{
+    margin-left: 40px;
+color: gray;  
+font-size: 10px; 
+}
+.Discription{
+    width: 90%;
+    height: 150px;
+    margin-left: 40px;  
+}
+.btn{
+    margin-left: 40px; 
+}
+
+.btn1{
+    margin-left: 5px; 
+}
+
+.inptpic{
+    margin-left: 40px;
+    width: 100px;
+    height: 100px;
+    
+}
+.ai{
+    font-size: 35px;
+}
+.ai2{
+    font-size: 35px;
+    margin-left: 40px;  
+
+}
+.b4{
+    margin-left: 10px;
+    width: 90%;
+    height: 50px;
+}
+.b5{
+    margin-left: 10px;
+    width: 70%;
+    height: 50px;
+}
+.btn3{
+    
+}
